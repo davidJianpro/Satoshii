@@ -2,7 +2,7 @@
 Group=Default Group
 ModulesStructureVersion=1
 Type=Service
-Version=9.9
+Version=9.95
 @EndOfDesignText@
 #Region  Service Attributes 
 	#StartAtBoot: False
