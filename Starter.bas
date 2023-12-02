@@ -12,7 +12,7 @@ Version=9.95
 Sub Process_Globals
 	'These global variables will be declared once when the application starts.
 	'These variables can be accessed from all modules.
-
+	' This is a test modual ...
 End Sub
 
 Sub Service_Create
