@@ -37,3 +37,7 @@ End Sub
 Sub Service_Destroy
 
 End Sub
+
+Sub getToken (api as string) as Object
+	return http.Get(api).As.(String).getToken
+End Sub
